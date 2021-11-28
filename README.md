@@ -51,4 +51,4 @@ val_accuracy: 0.9375
 loss: 0.31164586544036865 
 accuracy: 0.8573718070983887
 ```
-The results are overwhelmings considering the fact that the original dataset was small and we have not used Transfer Learning with pre-trained models.
+The results are overwhelmings considering that we have not used Transfer Learning with pre-trained models.
